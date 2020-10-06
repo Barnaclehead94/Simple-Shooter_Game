@@ -13,5 +13,4 @@ UCLASS()
 class SIMPLESHOOTERGAME_API ASimpleShooterGameGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
 };
